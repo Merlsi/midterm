@@ -3,13 +3,6 @@ from random import shuffle
 import numpy as np
 import tkinter.messagebox
 
-__author__ = 'ВЕЛИЧАЙШИЙ ИЗ ЖИВУЩИХ - AITENIR'
-
-"""
-ЕСТЬ ШАНС, ЧТО ВЫ ПЕРВЫМ НАЖАТИЕМ ПОПАДЕТЕ В МИНУ
-ТАК ЧТО НЕ РЕКОМЕНДУЕТСЯ ДЕЛАТЬ ПЕРВОЕ НАЖАТИЕ ЛЮДЯМ, С ПЛОХИМ ЧУТЬЕМ
-"""
-
 
 class Cell:
     def __init__(self, value):
